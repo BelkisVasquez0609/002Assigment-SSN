@@ -1,5 +1,6 @@
 # SSN (Social Security Number) Validator
-This application is an SSN validator, which consists of 9 digits divided into 3 parts by hyphens (-).
+This application is an SSN validator, which consists of 9 digits divided into 3 parts by hyphens (-). \
+
 **Autor:** Belkis Vasquez
 
 ## DOCS (INDEX)
